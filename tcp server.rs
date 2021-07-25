@@ -1,5 +1,5 @@
 /**
-@author 韩峰 - 08 - Team6
+@author 韩峰 - 08 - Team1
 @date 2021-11-25
 @description 程序设计参考文档：https://doc.rust-lang.org/1.0.0/std/net/index.html 实现功能如下：
 1、程序通过 `cargo run` 编译并启动后，Mac 机上通过 `lsof -i:8866` 可以看到 `TCP localhost:8866 (LISTEN)` 表示监听启动成功。
